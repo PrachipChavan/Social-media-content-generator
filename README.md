@@ -1,4 +1,5 @@
 # ⚡ AI Social Media Content Generator
+<img width="1916" height="910" alt="image" src="https://github.com/user-attachments/assets/b0a959f3-867f-4dde-93a9-3dbadedf92d5" />
 
 A premium Streamlit application that uses the **Groq API** (powered by LLaMA 3.3 70B and other LLaMA models) to generate platform-perfect social media content for Twitter/X, Instagram, LinkedIn, Facebook, and YouTube.
 
